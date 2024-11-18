@@ -1,4 +1,4 @@
-![Banner Image](https://your-banner-image-url.jpg)
+![Banner Image](./banner_github.png)
 
 # Hello World! I'm Ryhad BOUGHANMI 👋 
 
