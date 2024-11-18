@@ -2,7 +2,7 @@
     <img src="./banner_github_01.png" width="600" />
 </p>
 
-# Hello World! I'm Ryhad BOUGHANMI 👋 
+##
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;3D+Artist+and+Designer+%F0%9F%8E%A8;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
