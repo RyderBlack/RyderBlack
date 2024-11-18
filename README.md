@@ -79,8 +79,6 @@ Your amazing 3D creation!
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryderblack&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 🎵 Currently Vibing To
-[![Spotify](https://novatorem-spotify-widget.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1EQpesGsmIyqcW)
 
 ---
 
@@ -103,4 +101,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 🎵 Currently Vibing To
+[![Spotify](https://spotify-github-profile.kittinanx.com)](https://open.spotify.com/playlist/37i9dQZF1EQpesGsmIyqcW)
+
+
 -->
