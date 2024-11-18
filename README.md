@@ -1,4 +1,4 @@
-![Banner Image](./banner_github.png)
+![Banner Image](./banner_github_01.png)
 
 # Hello World! I'm Ryhad BOUGHANMI 👋 
 
