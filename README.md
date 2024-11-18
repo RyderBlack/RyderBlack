@@ -1,6 +1,6 @@
 <p align="center">
    <!-- <img src="./banner_github_01.png" width="600" /> -->
-    <img src="./Full_Stack_Developer_2.png" width="100%" />
+    <img src="./Full_Stack_Developer.png" width="600" />
 </p>
 
 ##
@@ -41,17 +41,17 @@ A passionate developer with a strong foundation in web development and a flair f
 
 ## 🌟 Featured Projects
 
-### 🚀 [Project 1 Name]
+### 🚀 [ReactNative Weather App]
 Brief description of your awesome project!
-- **🛠️ Tech Stack:** Reactjs and React Native, Bootstrap4
-- **🔗 Link:** [Project Link]
+- **🛠️ Tech Stack:** React Native
+- **🔗 Link:** [Project Link](https://github.com/RyderBlack/ReactNative_WeatherApp)
 
-### 🎮 [Project 2 Name]
+### 🎮 [Uncanny Marvel Library]
 Another cool project description.
-- **🛠️ Tech Stack:** Python
-- **🔗 Link:** [Project Link]
+- **🛠️ Tech Stack:** HTML, CSS, JavaScript, React.js, Bootstrap
+- **🔗 Link:** [Project Link](https://uncanny-marvel-library.surge.sh/)
 
-### 🎨 [3D Project]
+### 🎨 [3D Projects]
 Your amazing 3D creation!
 - **🎮 Tools:** Maya, Substance Painter, Unreal Engine
 - **🔗 Link:** [[Portfolio Link]](https://www.artstation.com/ryhverse)
@@ -75,17 +75,17 @@ Your amazing 3D creation!
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ryderblack&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
+<!--
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryderblack&theme=radical" alt="GitHub Streak" />
 </p>
-
-
----
-
+-->
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ryderblack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+---
+
 
 <p align="center">💡 Let's connect and build something amazing together! 🚀</p>
 
