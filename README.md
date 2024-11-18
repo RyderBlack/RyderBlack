@@ -1,4 +1,6 @@
-![Banner Image](./banner_github_01.png)
+<p align="center">
+    <img src="./banner_github_01.png" width="600" />
+</p>
 
 # Hello World! I'm Ryhad BOUGHANMI 👋 
 
