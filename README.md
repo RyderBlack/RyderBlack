@@ -50,8 +50,7 @@ A passionate developer with a strong foundation in web development and a flair f
 
 
    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" /></a> 
-   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="./images/unreal_engine_logo_white.svg" alt="unreal" width="40" height="40" /></a> 
+   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="./UE-Icon-2023-White.svg" alt="unreal" width="40" height="40" /></a> 
 </p>
 
 ### 🎨 3D Art & Design
