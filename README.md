@@ -1,6 +1,6 @@
 <p align="center">
    <!-- <img src="./banner_github_01.png" width="600" /> -->
-    <img src="./Full_Stack_Developer.png" width="700" />
+    <img src="./images/Full_Stack_Developer.png" width="700" />
 </p>
 
 ##
@@ -41,16 +41,17 @@ A passionate developer with a strong foundation in web development and a flair f
    <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> 
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
 
-  
+   
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
    
 
-
+   <a href="https://www.autodesk.com/fr/products/maya/" target="_blank" rel="noreferrer"> <img src="./images/maya_logo.png" alt="maya" width="40" height="40"/></a>
+   <a href="https://marvelousdesigner.com/" target="_blank" rel="noreferrer"> <img src="./images/marvelous_designer_logo.png" alt="marvelous_designer" width="40" height="40"/></a>
    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="./UE-Icon-2023-White.svg" alt="unreal" width="40" height="40" /></a> 
+   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="./images/UE-Icon-2023-White.svg" alt="unreal" width="40" height="40" /></a> 
 </p>
 
 ### 🎨 3D Art & Design
