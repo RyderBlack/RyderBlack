@@ -71,18 +71,18 @@ A passionate developer with a strong foundation in web development and a flair f
 ## 🌟 Featured Projects
 
 ### 🚀 [ReactNative Weather App]
-Brief description of your awesome project!
+An awesome project made for mobile (iOS and Android) to get the most accurate weather forecast!
 - **🛠️ Tech Stack:** React Native
 - **🔗 Link:** [Project Link](https://github.com/RyderBlack/ReactNative_WeatherApp)
 
 ### 🎮 [Uncanny Marvel Library]
-Another cool project description.
+Another cool project that pulls data from Marvel's API and get all the latest comic books.
 - **🛠️ Tech Stack:** HTML, CSS, JavaScript, React.js, Bootstrap
 - **🔗 Link:** [Project Link](https://uncanny-marvel-library.surge.sh/)
 
 ### 🎨 [3D Projects]
-Your amazing 3D creation!
-- **🎮 Tools:** Maya, Substance Painter, Unreal Engine 5
+My amazing 3D creations!
+- **🎮 Tools:** Maya, Substance Painter, Zbrush, Marvelous Designer and Unreal Engine 5
 - **🔗 Link:** [Portfolio Link](https://www.artstation.com/ryhverse/)
 
 ## 📫 Connect With Me
