@@ -6,7 +6,7 @@
 ##
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;3D+Artist+and+Designer+%F0%9F%8E%A8;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=fcfcfc&width=400&lines=Full+Stack+Developer+%F0%9F%92%BB;3D+Artist+and+Designer+%F0%9F%8E%A8;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
