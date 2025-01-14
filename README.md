@@ -16,7 +16,7 @@ A passionate developer with a strong foundation in web development and a flair f
 ## 🛠️ Tech Stack
 
 ### 💻 Programming, Web & Cloud Development
-<p align="left"> 
+<p align="center"> 
  
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
@@ -63,26 +63,9 @@ A passionate developer with a strong foundation in web development and a flair f
 - 🤖 **Artificial Intelligence:** I've created chatbots using custom LLMs and Vtube Studio to give them a 2D avatar but also using Unreal Engine 5 for 3D avatars.
 - 🛠️ **APIs & Web Scraping:** I'm able to pull data from most APIs out there and scraping methods using Python and BeautifulSoup4
 
-## 🌟 Featured Projects
-
-### 🚀 [ReactNative Weather App]
-An awesome project made for mobile (iOS and Android) to get the most accurate weather forecast!
-- **🛠️ Tech Stack:** React Native
-- **🔗 Link:** [Project Link](https://github.com/RyderBlack/ReactNative_WeatherApp)
-
-### 🎮 [Uncanny Marvel Library]
-Another cool project that pulls data from Marvel's API and get all the latest comic books.
-- **🛠️ Tech Stack:** HTML, CSS, JavaScript, React.js, Bootstrap
-- **🔗 Link:** [Project Link](https://uncanny-marvel-library.surge.sh/)
-
-### 🎨 [3D Projects]
-My amazing 3D creations!
-- **🎮 Tools:** Maya, Substance Painter, Zbrush, Marvelous Designer and Unreal Engine 5
-- **🔗 Link:** [Portfolio Link](https://www.artstation.com/ryhverse/)
-
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
     <a href="mailto:ryhad.boughanmi@laplateforme.io">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
@@ -94,57 +77,8 @@ My amazing 3D creations!
     </a>
 </p>
 
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryderblack&show_icons=true&locale=en&layout=compact" alt="ryderblack" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryderblack&show_icons=true&locale=en" alt="ryderblack" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryderblack&" alt="ryderblack" /></p>
-
---
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ryderblack&label=Profile%20views&color=0e75b6&style=flat" alt="ryderblack" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryderblack" alt="ryderblack" /></a> </p>
-<!--
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ryderblack&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryderblack&theme=radical" alt="GitHub Streak" />
-</p>
--->
-<!--
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ryderblack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
--->
-
-
 
 ---
 
 
 <p align="center">💡 Let's connect and build something amazing together! 🚀</p>
-
-<!--
-**RyderBlack/RyderBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.kittinanx.com)](https://open.spotify.com/playlist/37i9dQZF1EQpesGsmIyqcW)
-
-
--->
