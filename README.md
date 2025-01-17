@@ -66,15 +66,9 @@ A passionate developer with a strong foundation in web development and a flair f
 ## 📫 Connect With Me
 
 <p align="center">
-    <a href="mailto:ryhad.boughanmi@laplateforme.io">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/boughanmiryhad/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://ryhad.com">
-         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-    </a>
+    <a href="mailto:ryhad.boughanmi@laplateforme.io"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/boughanmiryhad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://ryhad.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 
