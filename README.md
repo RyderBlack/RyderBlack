@@ -43,14 +43,15 @@ With a strong foundation in web development and a flair for 3D art and design, I
    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
-
+ 
+ <!-- 
    <a href="https://www.autodesk.com/fr/products/maya/" target="_blank" rel="noreferrer"> <img src="./images/maya_logo.png" alt="maya" width="40" height="40"/></a>
    <a href="https://marvelousdesigner.com/" target="_blank" rel="noreferrer"> <img src="./images/marvelous_designer_logo.png" alt="marvelous_designer" width="40" height="40"/></a>
    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="./images/UE-Icon-2023-White.svg" alt="unreal" width="40" height="40" /></a> 
 </p>
 
- <!-- 
+
 ### 🎨 3D Art & Design
 
 - 🎮 **Modeling:** Maya, Blender, ZBrush
